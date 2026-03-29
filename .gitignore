@@ -1,0 +1,17 @@
+# Ignore Python virtual environments
+venv/
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+# Ignore logs
+*.log
+# Ignore large data files
+# *.csv
+*.h5
+*.txt
+*.mat
+*.jpg
+*.mp4
+*.txt
+*.npy
+*.pth
