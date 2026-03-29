@@ -1,0 +1,5 @@
+subset,model,mean_error_deg
+best5,GazeRefineNet,0.032751313969492914
+best5,EyeNetGRU,3.432570552825928
+worst5,GazeRefineNet,23.653965759277344
+worst5,EyeNetGRU,17.9079496383667
